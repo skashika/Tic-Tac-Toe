@@ -1,0 +1,84 @@
+Input String :exex is not valid: Invalid Length!
+____________________________
+Input String :xoxexox o is not valid: Invalid Letter!
+____________________________
+Input String :eeeooooxx is not valid: Impossible Position!
+____________________________
+Input String :xxxexooeo
+|x|x|x|
+| |x|o|
+|o| |o|
+X is the winner
+____________________________
+Input String :oxxoexoee
+|o|x|x|
+|o| |x|
+|o| | |
+O is the winner
+____________________________
+Input String :xxooxxxoo
+|x|x|o|
+|o|x|x|
+|x|o|o|
+The Game is Tie!
+____________________________
+Input String :eeoexoeee
+| | |o|
+| |x|o|
+| | | |
+Player X's turn
+| |X|o|
+| |x|o|
+| | | |
+
+____________________________
+Input String :xeoexeeee
+|x| |o|
+| |x| |
+| | | |
+Player X's turn
+|x| |o|
+|X|x| |
+| | | |
+
+____________________________
+Input String :eeeexoeee
+| | | |
+| |x|o|
+| | | |
+Player X's turn
+|X| | |
+| |x|o|
+| | | |
+
+____________________________
+Input String :eeeexoeee
+| | | |
+| |x|o|
+| | | |
+Player X's turn
+| | | |
+| |x|o|
+| | |X|
+
+____________________________
+Input String :eeeexoeee
+| | | |
+| |x|o|
+| | | |
+Player X's turn
+| | |X|
+| |x|o|
+| | | |
+
+____________________________
+Input String :eeeexoeee
+| | | |
+| |x|o|
+| | | |
+Player X's turn
+| | | |
+| |x|o|
+| |X| |
+
+____________________________
